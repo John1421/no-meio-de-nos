@@ -41,7 +41,7 @@ export const mainNavigation: NavigationItem[] = [
         id: "shop",
         label: "Loja",
         href: "/products",
-        description: "Navegue por produtos de crochê feitos à mão",
+        description: "Navegue por produtos de crochet feitos à mão",
         featured: true,
         showOn: "both",
     },
@@ -63,7 +63,7 @@ export const footerNavigation: NavigationItem[] = [
         id: "contact",
         label: "Contacto",
         href: "/contact",
-        description: "Entre em contato conosco",
+        description: "Entre em contacto connosco",
     },
     {
         id: "faq",
@@ -81,7 +81,7 @@ export const footerNavigation: NavigationItem[] = [
         id: "care",
         label: "Instruções de Cuidado",
         href: "/care",
-        description: "Como cuidar dos seus itens de crochê",
+        description: "Como cuidar dos seus itens de crochet",
     },
 ];
 
@@ -111,27 +111,27 @@ export const socialNavigation: NavigationItem[] = [
 export const accountNavigation: NavigationItem[] = [
     {
         id: "profile",
-        label: "Profile",
+        label: "Perfil",
         href: "/account/profile",
-        description: "Manage your profile",
+        description: "Gerir o seu perfil",
     },
     {
         id: "orders",
-        label: "Orders",
+        label: "Encomendas",
         href: "/account/orders",
-        description: "View your order history",
+        description: "Ver o seu histórico de encomendas",
     },
     {
         id: "wishlist",
-        label: "Wishlist",
+        label: "Lista de Desejos",
         href: "/account/wishlist",
-        description: "Your saved items",
+        description: "Os seus itens guardados",
     },
     {
         id: "settings",
-        label: "Settings",
+        label: "Definições",
         href: "/account/settings",
-        description: "Account settings",
+        description: "Definições da conta",
     },
 ];
 

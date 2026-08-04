@@ -14,7 +14,7 @@ export function Footer() {
                             </span>
                         </Link>
                         <p className="mt-4 text-sm text-muted-foreground leading-relaxed">
-                            🧶 Peças únicas em crochê <br />
+                            🧶 Peças únicas em crochet <br />
                             📍 Entregas em mão em Coimbra
                         </p>
                     </div>
